@@ -1,8 +1,3 @@
-"""
-app.py — Beautiful Streamlit UI for the Blog Topic & Outline Generator.
-Run with: streamlit run app.py
-"""
-
 import json
 import streamlit as st
 from prompt import blog_outline_prompt
